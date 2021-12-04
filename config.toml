@@ -81,7 +81,7 @@ pygmentsOptions = "linenos=table"
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:glandogear@gmail.com"
+    a-email = "mailto:talk5600@gmail.com"
 #    b-stack-overflow = "http://localhost:1313"
 #    c-twitter = "http://localhost:1313"
 #    d-facebook = "http://localhost:1313"
